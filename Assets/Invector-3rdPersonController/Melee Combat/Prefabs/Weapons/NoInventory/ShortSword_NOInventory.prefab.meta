@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 417d718c006f28c4282a0d0548d898a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Weapons/NoInventory/ShortSword_NOInventory.prefab
+  uploadId: 845164

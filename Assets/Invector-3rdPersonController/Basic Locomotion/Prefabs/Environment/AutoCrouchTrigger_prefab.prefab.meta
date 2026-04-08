@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94f4c598e51b7804eb586eb5ac35e3e1
+timeCreated: 1444575228
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Basic Locomotion/Prefabs/Environment/AutoCrouchTrigger_prefab.prefab
+  uploadId: 845164

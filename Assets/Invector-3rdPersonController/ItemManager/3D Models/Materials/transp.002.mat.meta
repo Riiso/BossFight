@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6d5c8820aa1fcd4a8b39206430696a2
+timeCreated: 1476193945
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/transp.002.mat
+  uploadId: 845164

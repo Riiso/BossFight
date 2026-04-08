@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42467bdda0eca974f834dcada0b58eb6
+timeCreated: 1459449701
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Basic Locomotion/Animator/AvatarMasks/FullBody.mask
+  uploadId: 845164

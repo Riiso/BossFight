@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 776677ab3818fb249adaca05f4e04545
+timeCreated: 1471532950
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Particles/EffectExamples/FireExplosionEffects/Materials/EmbersParticle.mat
+  uploadId: 845164

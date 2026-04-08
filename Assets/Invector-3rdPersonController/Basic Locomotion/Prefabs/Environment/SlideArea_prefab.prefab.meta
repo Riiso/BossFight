@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c3cb429f40404344a8827661b1b07fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Basic Locomotion/Prefabs/Environment/SlideArea_prefab.prefab
+  uploadId: 845164

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25d92df314f63cc4a98dfbd6ab725b6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Basic Locomotion/PhysicsMaterials/Resources/Character@Airborne.physicMaterial
+  uploadId: 845164

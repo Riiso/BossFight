@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aff5240f92a2042f0abba16cebeb9581
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Basic Locomotion/Editor/Resources/vTopDownAddon.unitypackage
+  uploadId: 845164

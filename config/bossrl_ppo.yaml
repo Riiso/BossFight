@@ -1,0 +1,33 @@
+engine_settings:
+  width: 1280
+  height: 720
+  quality_level: 0
+  time_scale: 20
+  target_frame_rate: -1
+  capture_frame_rate: 60
+
+behaviors:
+  BossRL:
+    trainer_type: ppo
+    hyperparameters:
+      batch_size: 512
+      buffer_size: 8192
+      learning_rate: 2.5e-4
+      beta: 3.0e-3
+      epsilon: 0.18
+      lambd: 0.95
+      num_epoch: 4
+      learning_rate_schedule: linear
+    network_settings:
+      normalize: false
+      hidden_units: 192
+      num_layers: 2
+    reward_signals:
+      extrinsic:
+        gamma: 0.99
+        strength: 1.0
+    keep_checkpoints: 20
+    checkpoint_interval: 100000
+    max_steps: 900000
+    time_horizon: 96
+    summary_freq: 10000

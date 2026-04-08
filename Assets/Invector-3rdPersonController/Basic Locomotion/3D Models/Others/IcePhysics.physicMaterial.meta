@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b13e3a928ea3ce147ab377c119d0b9e7
+timeCreated: 1486650367
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/IcePhysics.physicMaterial
+  uploadId: 845164

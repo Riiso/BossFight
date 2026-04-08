@@ -53,3 +53,8 @@ EOFcat > .gitignore <<'EOF'
 *.mdb
 *.opendb
 *.VC.db
+
+.venv_ml/
+results/
+**/run_logs/
+*.log

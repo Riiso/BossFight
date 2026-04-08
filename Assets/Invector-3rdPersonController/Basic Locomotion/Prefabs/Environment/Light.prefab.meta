@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 068cba0c26a86e34b9fe9765eb53ae5e
+timeCreated: 1464623689
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Basic Locomotion/Prefabs/Environment/Light.prefab
+  uploadId: 845164

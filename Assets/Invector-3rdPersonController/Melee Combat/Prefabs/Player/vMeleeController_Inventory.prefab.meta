@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5fc63571cb5f9ca499a44aa35cf94be4
+labels:
+- InvectorController
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Player/vMeleeController_Inventory.prefab
+  uploadId: 845164

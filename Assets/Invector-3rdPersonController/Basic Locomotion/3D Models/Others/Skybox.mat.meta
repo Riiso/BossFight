@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1385980456cd2044b282d73625457db
+timeCreated: 1472832253
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44227
+  packageName: Invector Third Person Controller - Melee Combat Template
+  packageVersion: 2.6.5
+  assetPath: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Skybox.mat
+  uploadId: 845164
