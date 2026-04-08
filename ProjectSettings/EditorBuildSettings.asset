@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cb70a8c10071da54c9b8f27087b7fe28
+  - enabled: 1
+    path: Assets/Scenes/ArenaClassic.unity
+    guid: 8c02b5b8039d9434b862df73e81ea047
+  - enabled: 1
+    path: Assets/Scenes/ArenaRL.unity
+    guid: fe025de36b9a277409bdbe70a02e8d2f
+  - enabled: 1
     path: Assets/Scenes/RLTraining.unity
     guid: 18403bcc452388445a98f734f7183a9e
   m_configObjects:
